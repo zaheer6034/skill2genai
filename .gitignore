@@ -1,0 +1,7 @@
+.env
+chroma_db/
+archive/
+__pycache__/
+*.pyc
+venv-jd/
+streamlit/
